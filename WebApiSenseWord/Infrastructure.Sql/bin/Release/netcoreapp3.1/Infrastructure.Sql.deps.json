@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Infrastructure.Sql/1.0.0": {
+        "dependencies": {
+          "Infrastructure.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Infrastructure.Sql.dll": {}
+        }
+      },
+      "Infrastructure.Entity/1.0.0": {
+        "runtime": {
+          "Infrastructure.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Infrastructure.Sql/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infrastructure.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

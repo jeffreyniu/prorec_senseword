@@ -1,0 +1,7 @@
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\b\Infrastructure.Sql\Debug\netcoreapp3.1\Infrastructure.Sql.deps.json
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\b\Infrastructure.Sql\Debug\netcoreapp3.1\Infrastructure.Sql.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\Infrastructure.Sql\Debug\netcoreapp3.1\Infrastructure.Sql.csprojAssemblyReference.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\Infrastructure.Sql\Debug\netcoreapp3.1\Infrastructure.Sql.AssemblyInfoInputs.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\Infrastructure.Sql\Debug\netcoreapp3.1\Infrastructure.Sql.AssemblyInfo.cs
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\Infrastructure.Sql\Debug\netcoreapp3.1\Infrastructure.Sql.csproj.CopyComplete
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\Infrastructure.Sql\Debug\netcoreapp3.1\Infrastructure.Sql.dll

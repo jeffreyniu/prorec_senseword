@@ -1,0 +1,16 @@
+D:\niutb_github\prorec\server\WebApiSenseWord\Application.Adapter\obj\Debug\netcoreapp3.1\Application.Adapter.csprojAssemblyReference.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\Application.Adapter\obj\Debug\netcoreapp3.1\Application.Adapter.AssemblyInfoInputs.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\Application.Adapter\obj\Debug\netcoreapp3.1\Application.Adapter.AssemblyInfo.cs
+D:\niutb_github\prorec\server\WebApiSenseWord\Application.Adapter\obj\Debug\netcoreapp3.1\Application.Adapter.csproj.CoreCompileInputs.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\Application.Adapter\bin\Debug\netcoreapp3.1\Application.Adapter.deps.json
+D:\niutb_github\prorec\server\WebApiSenseWord\Application.Adapter\bin\Debug\netcoreapp3.1\Application.Adapter.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\Application.Adapter\bin\Debug\netcoreapp3.1\Application.Adapter.pdb
+D:\niutb_github\prorec\server\WebApiSenseWord\Application.Adapter\bin\Debug\netcoreapp3.1\Infrastructure.Entity.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\Application.Adapter\bin\Debug\netcoreapp3.1\Infrastructure.Sql.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\Application.Adapter\bin\Debug\netcoreapp3.1\Infrastructure.Entity.pdb
+D:\niutb_github\prorec\server\WebApiSenseWord\Application.Adapter\bin\Debug\netcoreapp3.1\Infrastructure.Sql.pdb
+D:\niutb_github\prorec\server\WebApiSenseWord\Application.Adapter\obj\Debug\netcoreapp3.1\Application.Adapter.csproj.CopyComplete
+D:\niutb_github\prorec\server\WebApiSenseWord\Application.Adapter\obj\Debug\netcoreapp3.1\Application.Adapter.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\Application.Adapter\obj\Debug\netcoreapp3.1\Application.Adapter.pdb
+D:\niutb_github\prorec\server\WebApiSenseWord\Application.Adapter\bin\Debug\netcoreapp3.1\CustomCore.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\Application.Adapter\bin\Debug\netcoreapp3.1\CustomCore.pdb

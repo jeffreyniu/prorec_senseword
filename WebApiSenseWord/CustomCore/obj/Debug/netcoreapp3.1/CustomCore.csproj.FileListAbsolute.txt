@@ -1,0 +1,9 @@
+D:\niutb_github\prorec\server\WebApiSenseWord\CustomCore\bin\Debug\netcoreapp3.1\CustomCore.deps.json
+D:\niutb_github\prorec\server\WebApiSenseWord\CustomCore\bin\Debug\netcoreapp3.1\CustomCore.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\CustomCore\bin\Debug\netcoreapp3.1\CustomCore.pdb
+D:\niutb_github\prorec\server\WebApiSenseWord\CustomCore\obj\Debug\netcoreapp3.1\CustomCore.AssemblyInfoInputs.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\CustomCore\obj\Debug\netcoreapp3.1\CustomCore.AssemblyInfo.cs
+D:\niutb_github\prorec\server\WebApiSenseWord\CustomCore\obj\Debug\netcoreapp3.1\CustomCore.csproj.CoreCompileInputs.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\CustomCore\obj\Debug\netcoreapp3.1\CustomCore.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\CustomCore\obj\Debug\netcoreapp3.1\CustomCore.pdb
+D:\niutb_github\prorec\server\WebApiSenseWord\CustomCore\obj\Debug\netcoreapp3.1\CustomCore.csprojAssemblyReference.cache

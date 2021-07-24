@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>e9f452a3-3b53-4a62-b685-d5d347065e88</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Mysql\" />
+    <Folder Include="Shared\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application.Adapter\Application.Adapter.csproj" />
+    <ProjectReference Include="..\CustomCore\CustomCore.csproj" />
+    <ProjectReference Include="..\CustomException\CustomException.csproj" />
+    <ProjectReference Include="..\Infrastructure.Entity\Infrastructure.Entity.csproj" />
+    <ProjectReference Include="..\ThirdParties\ThirdParties.csproj" />
+  </ItemGroup>
+
+
+</Project>

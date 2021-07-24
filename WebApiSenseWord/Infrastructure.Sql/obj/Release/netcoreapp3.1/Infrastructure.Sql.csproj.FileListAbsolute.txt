@@ -1,0 +1,12 @@
+D:\niutb_github\prorec\server\WebApiSenseWord\Infrastructure.Sql\bin\Release\netcoreapp3.1\Infrastructure.Sql.deps.json
+D:\niutb_github\prorec\server\WebApiSenseWord\Infrastructure.Sql\bin\Release\netcoreapp3.1\Infrastructure.Sql.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\Infrastructure.Sql\bin\Release\netcoreapp3.1\Infrastructure.Sql.pdb
+D:\niutb_github\prorec\server\WebApiSenseWord\Infrastructure.Sql\bin\Release\netcoreapp3.1\Infrastructure.Entity.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\Infrastructure.Sql\bin\Release\netcoreapp3.1\Infrastructure.Entity.pdb
+D:\niutb_github\prorec\server\WebApiSenseWord\Infrastructure.Sql\obj\Release\netcoreapp3.1\Infrastructure.Sql.csprojAssemblyReference.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\Infrastructure.Sql\obj\Release\netcoreapp3.1\Infrastructure.Sql.AssemblyInfoInputs.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\Infrastructure.Sql\obj\Release\netcoreapp3.1\Infrastructure.Sql.AssemblyInfo.cs
+D:\niutb_github\prorec\server\WebApiSenseWord\Infrastructure.Sql\obj\Release\netcoreapp3.1\Infrastructure.Sql.csproj.CoreCompileInputs.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\Infrastructure.Sql\obj\Release\netcoreapp3.1\Infrastructure.Sql.csproj.CopyComplete
+D:\niutb_github\prorec\server\WebApiSenseWord\Infrastructure.Sql\obj\Release\netcoreapp3.1\Infrastructure.Sql.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\Infrastructure.Sql\obj\Release\netcoreapp3.1\Infrastructure.Sql.pdb

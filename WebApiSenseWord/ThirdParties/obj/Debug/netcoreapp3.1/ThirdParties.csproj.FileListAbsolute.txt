@@ -1,0 +1,9 @@
+D:\niutb_github\prorec\server\WebApiSenseWord\ThirdParties\bin\Debug\netcoreapp3.1\ThirdParties.deps.json
+D:\niutb_github\prorec\server\WebApiSenseWord\ThirdParties\bin\Debug\netcoreapp3.1\ThirdParties.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\ThirdParties\bin\Debug\netcoreapp3.1\ThirdParties.pdb
+D:\niutb_github\prorec\server\WebApiSenseWord\ThirdParties\obj\Debug\netcoreapp3.1\ThirdParties.AssemblyInfoInputs.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\ThirdParties\obj\Debug\netcoreapp3.1\ThirdParties.AssemblyInfo.cs
+D:\niutb_github\prorec\server\WebApiSenseWord\ThirdParties\obj\Debug\netcoreapp3.1\ThirdParties.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\ThirdParties\obj\Debug\netcoreapp3.1\ThirdParties.pdb
+D:\niutb_github\prorec\server\WebApiSenseWord\ThirdParties\obj\Debug\netcoreapp3.1\ThirdParties.csproj.CoreCompileInputs.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\ThirdParties\obj\Debug\netcoreapp3.1\ThirdParties.csprojAssemblyReference.cache

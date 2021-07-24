@@ -1,0 +1,13 @@
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\b\Infrastructure.Sql.Tests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\b\Infrastructure.Sql.Tests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\b\Infrastructure.Sql.Tests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\b\Infrastructure.Sql.Tests\Debug\netcoreapp3.1\Infrastructure.Sql.Tests.deps.json
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\b\Infrastructure.Sql.Tests\Debug\netcoreapp3.1\Infrastructure.Sql.Tests.runtimeconfig.json
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\b\Infrastructure.Sql.Tests\Debug\netcoreapp3.1\Infrastructure.Sql.Tests.runtimeconfig.dev.json
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\b\Infrastructure.Sql.Tests\Debug\netcoreapp3.1\Infrastructure.Sql.Tests.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\Infrastructure.Sql.Tests\Debug\netcoreapp3.1\Infrastructure.Sql.Tests.csprojAssemblyReference.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\Infrastructure.Sql.Tests\Debug\netcoreapp3.1\Infrastructure.Sql.Tests.AssemblyInfoInputs.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\Infrastructure.Sql.Tests\Debug\netcoreapp3.1\Infrastructure.Sql.Tests.AssemblyInfo.cs
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\Infrastructure.Sql.Tests\Debug\netcoreapp3.1\Infrastructure.Sql.Tests.csproj.CopyComplete
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\Infrastructure.Sql.Tests\Debug\netcoreapp3.1\Infrastructure.Sql.Tests.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\Infrastructure.Sql.Tests\Debug\netcoreapp3.1\Infrastructure.Sql.Tests.genruntimeconfig.cache

@@ -1,0 +1,185 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\niutb_github\\prorec\\server\\WebApiSenseWord\\Infrastructure.Sql\\Infrastructure.Sql.csproj": {}
+  },
+  "projects": {
+    "D:\\niutb_github\\prorec\\server\\WebApiSenseWord\\CustomCore\\CustomCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\niutb_github\\prorec\\server\\WebApiSenseWord\\CustomCore\\CustomCore.csproj",
+        "projectName": "CustomCore",
+        "projectPath": "D:\\niutb_github\\prorec\\server\\WebApiSenseWord\\CustomCore\\CustomCore.csproj",
+        "packagesPath": "C:\\Users\\jefniu\\.nuget\\packages\\",
+        "outputPath": "D:\\niutb_github\\prorec\\server\\WebApiSenseWord\\CustomCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jefniu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\niutb_github\\prorec\\server\\WebApiSenseWord\\Infrastructure.Entity\\Infrastructure.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\niutb_github\\prorec\\server\\WebApiSenseWord\\Infrastructure.Entity\\Infrastructure.Entity.csproj",
+        "projectName": "Infrastructure.Entity",
+        "projectPath": "D:\\niutb_github\\prorec\\server\\WebApiSenseWord\\Infrastructure.Entity\\Infrastructure.Entity.csproj",
+        "packagesPath": "C:\\Users\\jefniu\\.nuget\\packages\\",
+        "outputPath": "D:\\niutb_github\\prorec\\server\\WebApiSenseWord\\Infrastructure.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jefniu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\niutb_github\\prorec\\server\\WebApiSenseWord\\Infrastructure.Sql\\Infrastructure.Sql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\niutb_github\\prorec\\server\\WebApiSenseWord\\Infrastructure.Sql\\Infrastructure.Sql.csproj",
+        "projectName": "Infrastructure.Sql",
+        "projectPath": "D:\\niutb_github\\prorec\\server\\WebApiSenseWord\\Infrastructure.Sql\\Infrastructure.Sql.csproj",
+        "packagesPath": "C:\\Users\\jefniu\\.nuget\\packages\\",
+        "outputPath": "D:\\niutb_github\\prorec\\server\\WebApiSenseWord\\Infrastructure.Sql\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jefniu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\niutb_github\\prorec\\server\\WebApiSenseWord\\CustomCore\\CustomCore.csproj": {
+                "projectPath": "D:\\niutb_github\\prorec\\server\\WebApiSenseWord\\CustomCore\\CustomCore.csproj"
+              },
+              "D:\\niutb_github\\prorec\\server\\WebApiSenseWord\\Infrastructure.Entity\\Infrastructure.Entity.csproj": {
+                "projectPath": "D:\\niutb_github\\prorec\\server\\WebApiSenseWord\\Infrastructure.Entity\\Infrastructure.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.23, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

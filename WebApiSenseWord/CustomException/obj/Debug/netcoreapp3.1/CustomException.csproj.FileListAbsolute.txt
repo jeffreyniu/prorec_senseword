@@ -1,0 +1,9 @@
+D:\niutb_github\prorec\server\WebApiSenseWord\CustomException\bin\Debug\netcoreapp3.1\CustomException.deps.json
+D:\niutb_github\prorec\server\WebApiSenseWord\CustomException\bin\Debug\netcoreapp3.1\CustomException.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\CustomException\bin\Debug\netcoreapp3.1\CustomException.pdb
+D:\niutb_github\prorec\server\WebApiSenseWord\CustomException\obj\Debug\netcoreapp3.1\CustomException.AssemblyInfoInputs.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\CustomException\obj\Debug\netcoreapp3.1\CustomException.AssemblyInfo.cs
+D:\niutb_github\prorec\server\WebApiSenseWord\CustomException\obj\Debug\netcoreapp3.1\CustomException.csproj.CoreCompileInputs.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\CustomException\obj\Debug\netcoreapp3.1\CustomException.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\CustomException\obj\Debug\netcoreapp3.1\CustomException.pdb
+D:\niutb_github\prorec\server\WebApiSenseWord\CustomException\obj\Debug\netcoreapp3.1\CustomException.csprojAssemblyReference.cache

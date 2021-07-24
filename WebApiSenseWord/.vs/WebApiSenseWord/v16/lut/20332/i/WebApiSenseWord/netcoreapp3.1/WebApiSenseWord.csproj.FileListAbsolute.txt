@@ -1,0 +1,17 @@
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\b\WebApiSenseWord\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\b\WebApiSenseWord\bin\Debug\netcoreapp3.1\appsettings.json
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\b\WebApiSenseWord\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\b\WebApiSenseWord\bin\Debug\netcoreapp3.1\WebApiSenseWord.exe
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\b\WebApiSenseWord\bin\Debug\netcoreapp3.1\WebApiSenseWord.deps.json
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\b\WebApiSenseWord\bin\Debug\netcoreapp3.1\WebApiSenseWord.runtimeconfig.json
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\b\WebApiSenseWord\bin\Debug\netcoreapp3.1\WebApiSenseWord.runtimeconfig.dev.json
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\b\WebApiSenseWord\bin\Debug\netcoreapp3.1\WebApiSenseWord.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\WebApiSenseWord\netcoreapp3.1\WebApiSenseWord.csprojAssemblyReference.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\WebApiSenseWord\netcoreapp3.1\WebApiSenseWord.AssemblyInfoInputs.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\WebApiSenseWord\netcoreapp3.1\WebApiSenseWord.AssemblyInfo.cs
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\WebApiSenseWord\netcoreapp3.1\WebApiSenseWord.RazorTargetAssemblyInfo.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\WebApiSenseWord\netcoreapp3.1\WebApiSenseWord.csproj.CopyComplete
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\WebApiSenseWord\netcoreapp3.1\staticwebassets\WebApiSenseWord.StaticWebAssets.Manifest.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\WebApiSenseWord\netcoreapp3.1\staticwebassets\WebApiSenseWord.StaticWebAssets.xml
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\WebApiSenseWord\netcoreapp3.1\WebApiSenseWord.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\WebApiSenseWord\netcoreapp3.1\WebApiSenseWord.genruntimeconfig.cache

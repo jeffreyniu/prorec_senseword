@@ -1,0 +1,7 @@
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\b\Infrastructure.Entity\Debug\netcoreapp3.1\Infrastructure.Entity.deps.json
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\b\Infrastructure.Entity\Debug\netcoreapp3.1\Infrastructure.Entity.dll
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\Infrastructure.Entity\Debug\netcoreapp3.1\Infrastructure.Entity.csprojAssemblyReference.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\Infrastructure.Entity\Debug\netcoreapp3.1\Infrastructure.Entity.AssemblyInfoInputs.cache
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\Infrastructure.Entity\Debug\netcoreapp3.1\Infrastructure.Entity.AssemblyInfo.cs
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\Infrastructure.Entity\Debug\netcoreapp3.1\Infrastructure.Entity.csproj.CopyComplete
+D:\niutb_github\prorec\server\WebApiSenseWord\.vs\WebApiSenseWord\v16\lut\0\i\Infrastructure.Entity\Debug\netcoreapp3.1\Infrastructure.Entity.dll
